@@ -11,4 +11,4 @@ This is where my world begins:
 - 💬 Ask me about my dreams and goals..
 - 📫 How to reach me: hackwolf.scott@outlook.com
 - 😄 My Nickname is: TriMkort.
-- ⚡ I like to do daily tasks and homework that I know will take me one step beyond meeting my accomplishments and goals. 
+- ⚡ I work in my project with use to framework React and i used to hosting vercel this is my page portfolio: https://portafolio-delta-coral.vercel.app/inicio

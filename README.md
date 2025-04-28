@@ -4,9 +4,9 @@
 
 This is where my world begins:
 
-- 🔭 I’m currently working on my project with react.
-- 🌱 I’m currently learning  React and Javascript.
-- 👯 I’m practice my English daily.
+- ☄️ I’m currently working on my project with react.
+- 📚 I’m currently learning  React and Javascript.
+- 🍃 I’m practice my English daily.
 - 🤔 I use my knowledge and skills to carry out various test in programming logic.
 - 💬 Ask me about my dreams and goals..
 - 📫 How to reach me: hackwolf.scott@outlook.com
